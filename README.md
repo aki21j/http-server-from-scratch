@@ -1,4 +1,31 @@
 # http-server-from-scratch
+
+## 📚 Resources
+Based on [Build Your Own HTTP Server](https://build-your-own.org/webserver/#table-of-contents)
+
+## Guide:
+Part I: Make A Basic HTTP Server
+
+    Introduction
+    HTTP Overview
+    Code A TCP Server
+    Promises and Events
+    A Simple Network Protocol
+    HTTP Semantics and Syntax
+    Code A Basic HTTP Server
+
+Part II: Applications & Extensions
+
+    Dynamic Content and Streaming
+    File IO & Resource Management
+    Range Requests
+    HTTP Caching
+    Compression & the Stream API
+    WebSocket & Concurrency
+
+--- ------------------------------- ---
+
+## Advanced Topics
 ## 🧱 Build Your Own HTTP Server From Scratch (1-Week Challenge)
 
 Build a basic but real HTTP server in one week — from raw sockets to handling multiple concurrent requests, all without using a web framework. Great for learning systems, networking, protocols, and sharpening your coding skills.
